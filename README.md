@@ -1,2 +1,2 @@
 # Modulo_3B
-Generador de informes médicos con Streamlit y Flask
+*Generador de informes médicos con Streamlit y Flask*
